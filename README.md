@@ -7,18 +7,18 @@ Homebrew formula for installing Bukukas's apps & tools.
 Installation:
 
 ```
-brew tap bukukasio/tools
-brew install lummo-sqlproxy
+brew tap KeyValueSoftwareSystems/tools
+brew install gsql-proxy
 ```
 
-Or you can directly install the tool [lummo-sqlproxy](https://github.com/bukukasio/lummo-sqlproxy):
+Or you can directly install the tool [gsql-proxy](https://github.com/KeyValueSoftwareSystems/gsql-proxy):
 
 ```
-brew install bukukasio/tools/lummo-sqlproxy
+brew install KeyValueSoftwareSystems/tools/gsql-proxy
 ```
 
-Upgrade the lummo-sqlproxy CLI to the latest version:
+Upgrade the gsql-proxy CLI to the latest version:
 
 ```
-brew upgrade bukukasio/tools/lummo-sqlproxy
+brew upgrade KeyValueSoftwareSystems/tools/gsql-proxy
 ```
