@@ -1,6 +1,6 @@
 # homebrew-tools
 
-Homebrew formula for installing Bukukas's apps & tools.
+Homebrew formula for installing Keyvalue's apps & tools.
 
 ## How To Use
 
